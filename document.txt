@@ -1,0 +1,8 @@
+@Tác giả: Trinh Ngoc Minh
+@Date: 18 - 01 - 2022
+@Note: HÀNG SHARE BÁN CÁI ĐỊT LỒN MẸ MÀY
+------- SUB CHO MÌNH NHÁ --------
+
+- config ở config.php !
+
+- admin thay ở cơ sở dữ liệu !
